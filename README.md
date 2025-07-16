@@ -1,14 +1,15 @@
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME:Guntamadugu Tharun
+NAME: Guntamadugu Tharun 
 
-INTERN ID: CT06DH1140
+INTERN ID: CT06DH1622
 
 DOMAIN: Full Stack Web Development
 
 DURATION: 6 WEEEKS
 
 MENTOR:NEELA SANTOSH
+
 # 💬 Real-Time Chat Application
 
 
